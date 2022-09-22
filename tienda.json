@@ -1,0 +1,51 @@
+[
+    
+    {
+        "name" : "Sillon",
+        "category" : "Sillas",
+        "price" : "25.000",
+        "imgSrc" : "images/armchair.png"
+    },
+    {
+        "name" : "Cama",
+        "category" : "Camas",
+        "price" : "102.000",
+        "imgSrc" : "images/bed.png"
+    },
+    {
+        "name" : "Banco",
+        "category" : "Bancos",
+        "price" : "14.315",
+        "imgSrc" : "images/bench.png"
+    },
+    {
+        "name" : "Camas Cuchetas",
+        "category" : "Camas",
+        "price" : "22.735",
+        "imgSrc" : "images/bunk-bed.png"
+    },
+    {
+        "name" : "Gabinete",
+        "category" : "Cabinetes",
+        "price" : "5.000",
+        "imgSrc" : "images/cabinet.png"
+    },
+    {
+        "name" : "Mesa de cartas",
+        "category" : "Mesas",
+        "price" : "12.000",
+        "imgSrc" : "images/card-table.png"
+    },
+    {
+        "name" : "Almohada",
+        "category" : "Almohadas",
+        "price" : "5.300",
+        "imgSrc" : "images/cushion.png"
+    },
+    {
+        "name" : "Escritorio",
+        "category" : "Escritorios",
+        "price" : "25.000",
+        "imgSrc" : "images/desk.png"
+    }
+]
