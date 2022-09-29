@@ -109,6 +109,9 @@ function addToCartList(product){
     `;
     cartList.appendChild(cartItem);
 }
+const pay = function() {
+    swal("Felicidades","Has comprado los productos", "success");
+}
 
 // guardar en localstor
 function saveProductInStorage(item){

@@ -289,7 +289,26 @@ header .container{
     color: #fff;
 }
 
-/* products */
+.btn-checkout{
+    font-size: 1rem;
+    text-transform: uppercase;
+    font-weight: 600;
+    border: 1px solid var(--fire-bush);
+    background: var(--fire-bush);
+    color: #fff;
+    padding: 3px;
+    letter-spacing: 2px;
+    display: block;
+    width: 180px;
+    margin: 3px auto;
+    align-items: center;
+    transition: var(--trans);
+    -webkit-transition: var(--trans);
+    -moz-transition: var(--trans);
+    -ms-transition: var(--trans);
+    -o-transition: var(--trans);
+    
+/* products */}
 .products{
     padding: 6rem 0;
 }
